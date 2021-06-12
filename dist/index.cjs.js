@@ -2722,10 +2722,10 @@ var templateObject_1;
 var baseColors = {
     failure: "#ED4B9E",
     primary: "#be1d29",
-    primaryBright: "#df5861",
+    primaryBright: "#d93f49",
     primaryDark: "#be1d29",
     secondary: "#10559a",
-    success: "#31D0AA",
+    success: "#10559a",
     warning: "#FFB237", // unseen orange
 };
 var brandColors = {

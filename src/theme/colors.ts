@@ -3,10 +3,10 @@ import { Colors } from "./types";
 export const baseColors = {
   failure: "#ED4B9E", // unseen pink
   primary: "#be1d29", // red set
-  primaryBright: "#df5861", // light red set
+  primaryBright: "#d93f49", // light red set
   primaryDark: "#be1d29", // red set
   secondary: "#10559a", // dark blue set
-  success: "#31D0AA", // green same
+  success: "#10559a", // dark blue set
   warning: "#FFB237", // unseen orange
 };
 
