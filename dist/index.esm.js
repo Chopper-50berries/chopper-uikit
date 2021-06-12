@@ -2708,7 +2708,7 @@ var templateObject_1;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#00FF00",
+    primary: "#be1d29",
     primaryBright: "#d2ed4b",
     primaryDark: "#da2c43",
     secondary: "#4bede2",
@@ -2718,7 +2718,7 @@ var baseColors = {
 var brandColors = {
     binance: "#F0B90B", // unseen gold
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#e4a199", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#b55312", text: "#2da8d2", textDisabled: "#BDC2C4", textSubtle: "#e84bed", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#fedd7a", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#000000", input: "#eeeaf4", tertiary: "#b55312", text: "#1d80c3", textDisabled: "#BDC2C4", textSubtle: "#e84bed", borderColor: "#E9EAEB", card: "#0047ab", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)", // unused background banner from pancake Farms // light blue & light purple not seen
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#136B49", background: "#da2c43", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#136B49", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {
